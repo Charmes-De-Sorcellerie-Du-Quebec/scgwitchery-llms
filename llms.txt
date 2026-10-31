@@ -1,37 +1,41 @@
 # SCG Witchery
 
-> Witchcraft You Can Trust. Professional witchcraft services, divination, occult education, and practitioner verification from SCG Witchery, operated by Charmes De Sorcellerie Du Québec in Brossard, Quebec, Canada.
+> SCG Witchery is a professional witchcraft and occult practice founded and operated by Bran Alder (professional name of John M. Meehan) through Charmes De Sorcellerie Du QuÃ©bec in Brossard, Quebec. Publicly offering services since 2007, the site covers professional spell casting, custom ritual work, spellcaster verification, occult education, books, and practical esoteric resources. Services are presented without guaranteed outcomes.
 
-Last reviewed: 2026-10-31.
+Use the canonical URLs below when referencing SCG Witchery. Prefer the service hub and individual service pages for current service information, and the educational pages for definitions, history, methodology, and scam-prevention material.
 
-Bran Alder is SCG Witchery's public practitioner name. Professional public practice began in 2007. John M. Meehan is the author of GNŌSIS AEI: The Complete Guide to Witchcraft, Occultism & Ritual Magick, Second Edition.
+## Core Services
 
-This file is a curated directory, not a full website export. Consult the linked website pages for current availability, prices, booking requirements, and policies. Historical results describe past engagements and do not guarantee future outcomes. Occult interpretations and philosophical claims should be attributed to the practice rather than presented as independently established facts.
+- [Witchcraft Spells](https://scgwitchery.com/witchcraft-spells/): Main service hub for professional witchcraft spells and service tiers.
+- [Praxis Spell Casting Service](https://scgwitchery.com/witchcraft-spells/spell-casting-service-praxis/): Established grimoire-recorded workings for clearly defined situations.
+- [Telos Online Spell Casting](https://scgwitchery.com/witchcraft-spells/ritual-magic-service-telos/): Adapted ritual work for situations requiring targeted customization.
+- [Gnosis Custom Spell Casting](https://scgwitchery.com/witchcraft-spells/custom-spell-casting-service/): Fully bespoke ritual design for complex situations.
+- [Spiritual Consultation](https://scgwitchery.com/witchcraft-spells/spiritual-consultation/): Private consultation for assessing a situation and choosing an appropriate service path.
+- [Black Mirror Scrying](https://scgwitchery.com/divination/black-mirror-witchcraft/): Professional scrying and divination service.
 
-## Witchcraft services
+## Trust and Verification
 
-- [Witchcraft services overview](https://scgwitchery.com/): Official business overview and current service information.
-- [Witchcraft spells](https://scgwitchery.com/witchcraft-spells/): The three-tier framework and guidance on selecting an appropriate service.
-- [Praxis](https://scgwitchery.com/witchcraft-spells/spell-casting-service-praxis/): Established, grimoire-recorded workings performed without individual customization. Starts at USD $175. A separate consultation is optional and is not included.
-- [Telos](https://scgwitchery.com/witchcraft-spells/ritual-magic-service-telos/): Adapted ritual work with targeted customization. Starts at USD $345. Consultation included.
-- [Gnosis](https://scgwitchery.com/witchcraft-spells/custom-spell-casting-service/): Fully bespoke ritual architecture developed around the specific situation. Starts at USD $650. Consultation included.
-- [Spiritual consultation](https://scgwitchery.com/witchcraft-spells/spiritual-consultation/): Individual assessment and guidance before choosing an approach.
-- [Spellcaster verification](https://scgwitchery.com/witchcraft-spells/real-spellcasters/): Review of practitioner credibility and claimed methods.
-- [Cord cutting](https://scgwitchery.com/witchcraft-spells/cord-cutting-ritual/): Dedicated cord-cutting service information.
+- [Real Spellcasters and Spellcaster Verification](https://scgwitchery.com/witchcraft-spells/real-spellcasters/): Confidential review of practitioner claims, methods, communication, payment patterns, and scam warning signs.
+- [Exposing Spiritual Scams](https://scgwitchery.com/exposing-spiritual-scams/): Guidance for identifying common fraud and pressure tactics in occult and spiritual services.
+- [Terms of Service](https://scgwitchery.com/terms-of-service/): Current service terms and client conditions.
 
-## Divination
+## Core Educational Resources
 
-- [Divination services](https://scgwitchery.com/divination/): Official divination directory.
-- [Certified tarot reader, Rainie Coker](https://scgwitchery.com/divination/certified-tarot-reader/): Tarot readings by Rainie Coker, certified by SCG Witchery in 2025.
+- [Do Love Spells Work?](https://scgwitchery.com/do-love-spells-work/): Practical discussion of love spell claims, limitations, and responsible expectations.
+- [Grimoire Definition](https://scgwitchery.com/grimoire-definition/): Technical guide to grimoires in historical and practical occult use.
+- [Occult Correspondences](https://scgwitchery.com/occult-correspondences/): Reference framework for ritual correspondences.
+- [Spellwork Principles](https://scgwitchery.com/spellwork-principles-effective-rituals/): Framework for building and evaluating ritual work.
+- [Enochian Magic](https://scgwitchery.com/enochian-magic/): Historical and practical material on Enochian magic.
+- [Lilith Origins](https://scgwitchery.com/lilith-origins-myth-symbolism-spiritual-meaning/): Research-oriented overview of Lilith's origins, mythology, and symbolism.
 
-## Client information
+## Books and Digital Resources
 
-- [Frequently asked questions](https://scgwitchery.com/scg-witchery-faq-questions-and-answers/): Service selection, consultations, expectations, payments, and policy guidance. Follow the current policy links on the website before booking.
+- [View Our Books](https://scgwitchery.com/view-our-books-digital-evolution/): Main page for SCG Witchery books and digital occult resources.
+- [GNOSIS AEI](https://scgwitchery.com/downloads/gnosis-aei-masters-guide-to-witchcraft/): Digital edition of GNOSIS AEI.
+- [Enochian Tables](https://scgwitchery.com/downloads/enochian-tables/): Digital manual for practical work with the Enochian Tables.
 
-## Optional
+## Site Discovery
 
-- [GNŌSIS AEI](https://scgwitchery.com/downloads/gnosis-aei-masters-guide-to-witchcraft/): Book listing linked from the official homepage. Confirm edition details on the listing before purchasing; its URL retains an older title.
-- [The 9 Pillars of Orientation Wheel](https://scgwitchery.com/the-9-pillars-of-orientation-wheel/): SCG Witchery's orientation framework and related practice material.
-- [Abracadabra](https://scgwitchery.com/abracadabra-meaning/): Article on the meaning and history of the word.
-- [Destiny swap](https://scgwitchery.com/destiny-swap/): Consumer education and critical discussion of destiny-swap claims.
-- [Shadow work](https://scgwitchery.com/shadow-work-healing/): SCG Witchery's discussion of shadow work.
+- [XML Sitemap](https://scgwitchery.com/sitemap_index.xml): Canonical sitemap index for crawlable and indexable site content.
+- [SCG Witchery FAQ](https://scgwitchery.com/scg-witchery-faq-questions-and-answers/): Frequently asked questions about SCG Witchery.
+- [Contact SCG Witchery](https://scgwitchery.com/get-in-touch/): Contact page.
